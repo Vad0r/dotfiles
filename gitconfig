@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = kdecker.webmaster@gmail.com
-	name = Kevin Decker
+	email = decker
+	name = kevin
